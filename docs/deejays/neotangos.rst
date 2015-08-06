@@ -10,8 +10,9 @@ At some of the milongas in Buenos Aires, Europe and North America, the DJs have 
 
 To learn more about neo-tango music, read Sharna Fabiano's essay, The Rise of Neo Tango Music.
 
-return to Using Neo-Tango Recordings
 Some Tango-Fusion Recordings
+----------------------------
+
 Carlos Libedinsky � Narcotango
 Of the currently available tango-fusion recordings, my friend Brian Dunn of Boulder, Colorado points out that Libedinsky's Narcotango has the strongest tango sensibilities.  Afficionados of tango fusion are likely to find all the tracks on Narcotango to be suitable for social dancing, but "Vi Luz y Subi" and "Otra Luna" are beautiful and have the strongest tango sound.  "Plano Sequenco" and "Trancetango" also work fairly well, but the underlying tango sound is a little farther down in the mix.
 
@@ -69,16 +70,13 @@ Juan Carlos Caceres has a wonderful, deep singing voice and plays piano with jaz
 Moulin Rouge (Soundtrack)
 The movie spectacular Moulin Rouge contains one tango, "El Tango de Roxanne" which some dancers may find fun for dancing on occasion.  Recorded for the movie, this tango combines the rock classic "Roxanne" with a tango written by Mariano Mores.
 
-bandoneon - back to top
+
 Other Resources
+---------------
+
 Also see Sharna Fabiano's DJ List of Neo Tangos, Veronika's La Potranca, Homer and Cristina Ladas' Tango DJ Resource Page, and Project Tango DJ Resources.  The first two websites list tango-fusion, electrotango and "alternative" tango tracks.  The last two present ideas for bridging the gap between traditional and alternative forms of tango deejaying
 
 Listen to NeoTango online at Radio Buenos Aires.  Radio Buenos Aires can be accessed by through Live365.  Enter tango in the search and then scroll down to Radio Buenos Aires.
 
-return to Using Neo-Tango Recordings
-
-bandoneon - back to top
-Tango Argentino de Tejas
-Home   Video Resources   Tango Music   Other Topics   Dallas Tango   Links
 
 
