@@ -23,7 +23,7 @@ Guides to Tango Music for Social Dancing
 `Argentine tango`_ is one of the great music styles in the world and essential for dancing tango.  
 We provide guides for developing a collection of tango music and using it for social dancing.
 
-.. image: ../../pix/la_cumparsita.jpg
+.. image:: ../../pix/la_cumparsita.jpg
 
 For Social Dancers
 -----------------
@@ -45,7 +45,7 @@ A brief guide to some post-golden-age CDs for the DJ playing music at milongas a
 
 A brief guide to some neo-tango CDs for the DJ playing music for tango dancers who would enjoy something new and different.
 
-.. rubric: Feedback
+.. rubric:: Feedback
 
 Please send all questions, inquiries, or praise to <kaceong@gmail.com>.
 
