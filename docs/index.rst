@@ -4,12 +4,11 @@ Guides to Tango Music for Social Dancing
 
 `Argentine tango`_ is one of the great music styles in the world and essential for dancing tango.  
 We provide guides for developing a collection of tango music and using it for social dancing.
+Ready to get started? Check out the :doc:`Quickstart<quickstart>` guide.
 
 
 For Dancers
 --------
-
-* Ready to get started? Check out the :doc:`Quickstart<quickstart>` guide.
 
 * Building a Collection of Tango Music for Social Dancing
 A comprehensive guide for getting started on building a collection of Argentine tango music for social dancing.
@@ -19,6 +18,14 @@ A guide to the recordings best-suited for dancers first learning to hear the rhy
 
 * Classics of Tango Dance Music
 An evolving list of great tangos, milongas and valses for social dancing as recommended by tango dancers and DJs from around the world.
+
+
+.. toctree::
+   :maxdepth: 2
+
+   dancers/build-a-collection
+   dancers/new-to-tango
+   dancers/tango-classics
 
 For DJs
 --------
@@ -34,20 +41,10 @@ A brief guide to some post-golden-age CDs for the DJ playing music at milongas a
 
 * A DJ's Guide to Neo-Tango Recordings
 A brief guide to some neo-tango CDs for the DJ playing music for tango dancers who would enjoy something new and different.
-  
-  
-
-
-
-Documentation
--------------
 
 .. toctree::
    :maxdepth: 2
 
-   dancers/build-a-collection
-   dancers/new-to-tango
-   dancers/tango-classics
    deejays/play-for-milongas
    deejays/list-of-tandas
    deejays/post-golden-age
