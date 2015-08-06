@@ -6,63 +6,54 @@ Guides to Tango Music for Social Dancing
 We provide guides for developing a collection of tango music and using it for social dancing.
 
 .. ATTENTION::
-   This book is based on information from 2000-2013.
+   This ebook is based on information from 2000-2013.
    It has not been revised to include the latest updates.
-   More in :doc:`Quickstart<quickstart>` guide.
-
+   Some editing was added by Kace Ong.
 
 For Dancers
 --------
 
 A comprehensive guide for getting started on building a collection of Argentine tango music for social dancing.
 
-.. toctree::
-   :maxdepth: 2
-
+.. toctree::   :maxdepth: 2
    dancers/build-a-collection
 
 A guide to the recordings best-suited for dancers first learning to hear the rhythm of Argentine tango music.
 
-.. toctree::
-   :maxdepth: 2
-
+.. toctree::   :maxdepth: 2
    dancers/new-to-tango
 
 An evolving list of great tangos, milongas and valses for social dancing as recommended by tango dancers and DJs from around the world.
 
-.. toctree::
-   :maxdepth: 2
-
+.. toctree::   :maxdepth: 2
    dancers/tango-classics
 
 For DJs
 --------
 
-* Playing Music for Milongas: The DJ's Role
 A guide for the person playing recorded music at milongas, practicas and other tango events.
 
-* An Annotated List of Tandas
+.. toctree::   :maxdepth: 2
+   deejays/play-for-milongas
+
+
 A list of more than 100 coherent sounding tandas that capture the best recordings of each tango orchestra.
 
-* A DJ's Guide to Post-Golden-Age Recordings
+.. toctree::   :maxdepth: 2
+   deejays/list-of-tandas
+
 A brief guide to some post-golden-age CDs for the DJ playing music at milongas and practicas.
 
-* A DJ's Guide to Neo-Tango Recordings
+.. toctree::   :maxdepth: 2
+   deejays/post-golden-age
+
 A brief guide to some neo-tango CDs for the DJ playing music for tango dancers who would enjoy something new and different.
 
-.. toctree::
-   :maxdepth: 2
-
-   deejays/play-for-milongas
-   deejays/list-of-tandas
-   deejays/post-golden-age
+.. toctree::  :maxdepth: 2
    deejays/neotangos
-   changelog
+
 
 .. Links
-
-This repository hosts the ebook written around 2000-2010.
-Some editing and reformatting was added by Kace Ong.
 
 Please send all questions, inquiries, or praise to <kaceong@gmail.com>.
 
