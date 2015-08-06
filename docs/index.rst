@@ -3,6 +3,7 @@
    It has not been revised to include the latest updates.
    Some editing was added by Kace Ong.
 
+.. sectnum::
 .. toctree::
    :hidden:
 
