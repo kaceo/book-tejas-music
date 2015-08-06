@@ -48,7 +48,7 @@ Documentation
    dancers/build-a-collection
    dancers/new-to-tango
    dancers/tango-classics
-   deejays/play-for-milonga
+   deejays/play-for-milongas
    deejays/list-of-tandas
    deejays/post-golden-age
    deejays/neotangos
