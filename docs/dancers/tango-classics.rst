@@ -10,7 +10,6 @@ as recommended by tango dancers and DJs from around the world.
 .. contents::
 
 .. image:: ../pix/Juan.jpg
-   :alt: Juan D'Arienzo Orquesta
 
 
 List as of 1 May 2011
