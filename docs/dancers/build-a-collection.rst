@@ -10,7 +10,7 @@ A comprehensive guide for getting started on building a collection of Argentine 
 
 .. contents::
 
-.. image:: ../pix/cdsv.jpg
+.. image:: ../../pix/cdsv.jpg
 
 
 Introduction / Overview
