@@ -14,9 +14,9 @@
    deejays/post-golden-age
    deejays/neotangos
 
-========================================
+########################################
 Guides to Tango Music for Social Dancing 
-========================================
+########################################
 *by Stephen and Susan Brown*
 
 **© Copyright 2000-2013**
