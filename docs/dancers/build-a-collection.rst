@@ -1,4 +1,4 @@
-
+.. sectnum::
 Building a Tango Music Collection for Social Dancing
 ####################################################
 *by Stephen and Susan Brown*
