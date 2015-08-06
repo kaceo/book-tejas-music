@@ -2,16 +2,17 @@
 #############################
 Classics of Tango Dance Music
 #############################
-Juan D'Arienzo Orquesta
+*Conceived and Organized by Stephen Brown*
 
 .. sidebar:: Contents
    .. contents::
-.. sectnum::
 
 An evolving list of great tangos, milongas and valses for social dancing 
 as recommended by tango dancers and DJs from around the world.
 
-Conceived and Organized by Stephen Brown
+.. image:: ../pix/Juan.jpg
+  :alt: Juan D'Arienzo Orquesta
+
 
 Acknowledgments and Comments
 

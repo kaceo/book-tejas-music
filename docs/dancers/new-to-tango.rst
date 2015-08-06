@@ -1,17 +1,20 @@
+########################################
 Music for Dancers New to Argentine Tango
-========================================
-by Stephen and Susan Brown
+########################################
+*by Stephen and Susan Brown*
 
 .. sidebar:: Contents
    .. contents::
-.. sectnum::
-
-Carlos Di Sarli
 
 A guide to the recordings best-suited for dancers first learning to hear the rhythm of Argentine tango music.
 
+.. image:: ../pix/disarli.gif
+   :alt: Carlos Di Sarli
+
+
 Overview
----------
+========
+
 Outside of Argentina, most people do not grow up hearing tango music. 
 Consequently, many beginning dancers face the challenge of finding music that is useful 
 for learning to hear and move to the beat of tango. 
@@ -96,7 +99,7 @@ and the somewhat lower fidelity Campo Afuera (El Bandoneon).
 
 
 The Recordings
---------------
+==============
 
   1. Francisco Canaro
         La Melodia de Nuestro Adios  (El Bandoneon)
@@ -138,7 +141,7 @@ The Recordings
 
 
 Where to Buy
-------------
+============
 
 Despite a growing number of releases over the past few years, 
 distribution remains limited, and availability is a constant issue 
@@ -152,14 +155,18 @@ completely unsuitable for social dancing.
 Some large local stores near universities also stock a fair number of 
 tango recordings, some of which may be suitable for social dancing.
 
-Of the dealers in the United States, TangoCD.com has the most 
-extensive list of recordings.  
-Zival's Tango Store in Buenos Aires has the most extensive list of 
-recordings and ships promptly.  
-Owing to the distance, Zival's shipping costs are high and are best spread 
-across a big order.  
-In the United Kingdom, Mike Lavocah's milonga.co.uk, has an extensive list 
-of available recordings.  
-In Germany, Danza y Movimiento has an extensive list of recordings.
+  * Of the dealers in the United States, 
+  TangoCD.com has the most 
+  extensive list of recordings.  
+  
+  * Zival's Tango Store in Buenos Aires has the most extensive list of 
+    recordings and ships promptly.  
+    Owing to the distance, Zival's shipping costs are high and are best spread 
+     across a big order.  
+
+  * In the United Kingdom, Mike Lavocah's milonga.co.uk, has an extensive list 
+  of available recordings.  
+
+  * In Germany, Danza y Movimiento has an extensive list of recordings.
 
 
