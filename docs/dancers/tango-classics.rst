@@ -1,5 +1,7 @@
+.. sectnum::
+#############################
 Classics of Tango Dance Music
-==============================
+#############################
 Juan D'Arienzo Orquesta
 
 An evolving list of great tangos, milongas and valses for social dancing 
