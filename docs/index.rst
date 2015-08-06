@@ -18,11 +18,13 @@ Guides to Tango Music for Social Dancing
 ========================================
 *by Stephen and Susan Brown*
 
+**© Copyright 2000-2013**
+
 `Argentine tango`_ is one of the great music styles in the world and essential for dancing tango.  
 We provide guides for developing a collection of tango music and using it for social dancing.
 
-For Dancers
---------
+For Social Dancers
+-----------------
 
 A comprehensive guide for getting started on building a collection of Argentine tango music for social dancing.
 
@@ -30,8 +32,8 @@ A guide to the recordings best-suited for dancers first learning to hear the rhy
 
 An evolving list of great tangos, milongas and valses for social dancing as recommended by tango dancers and DJs from around the world.
 
-For DJs
---------
+For Music DJs
+------------
 
 A guide for the person playing recorded music at milongas, practicas and other tango events.
 
