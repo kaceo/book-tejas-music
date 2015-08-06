@@ -1,8 +1,7 @@
 
-Building a Collection of Argentine Tango Music for Social Dancing
-=================================================================
+Building a Tango Music Collection for Social Dancing
+=====================================================
 *by Stephen and Susan Brown*
-**© Copyright 2000-2013**
 
 A comprehensive guide for getting started on building a collection of Argentine tango music for social dancing.
 
@@ -35,9 +34,9 @@ Recordings to Avoid
 Some of Our Favorite Tango CDs (List)
 Tango Montreal Top 25 (List)
 
-bandoneon - back to top
 
-Introduction/ Overview
+
+Introduction / Overview
 ---------------------
 
 A person attempting to develop a collection of tango music faces two challenges: 
@@ -45,16 +44,13 @@ knowing which recordings are likely to be suitable for social dancing and
 finding a place to buy them. 
 Most of the tango recordings available in U.S. music stores are not well suited for social dancing.  
 Mail ordering is often the best option.
-
 In starting our collection of tango music for social dancing, we found the 
 `Tango Montreal`_ website to be helpful.  
 Classics of Tango Dance Music and 
 Mike Lavocah's recommendations at milonga.co.uk 
 are other useful resources.  
-
 We also ask the DJs at milongas and practicas what they are playing when we hear 
 something we particularly like. 
-
 Our final guide has been our own ears, sense of rhythm, and the improving availability of recordings.
 
 A purchaser can improve the odds of finding good dance music by watching for the four big names in tango social dance music: Juan D' Arienzo, Carlos Di Sarli, Osvaldo Pugliese, and Anibal Troilo.  Their orchestras were among the most popular during the golden age of tango, and their music is still prominently featured at milongas in Buenos Aires.  A number of other orchestras from the golden age of tango�particularly those led by of Rodolfo Biagi, Miguel Caló, Francisco Canaro, Angel D' Agostino, Alfredo De Angelis, Pedro Laurenz, and Ricardo Tanturi�also produced music that is excellent for social dancing, and their music is still played at milongas in Buenos Aires.  The EMI Reliquias and Tango Argentino labels contain many of the best tangos recorded by the great orchestras of the golden age.
