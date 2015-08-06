@@ -1,6 +1,7 @@
 ==============================================================================
-Guides to Tango Music for Social Dancing by Stephen and Susan Brown
+Guides to Tango Music for Social Dancing 
 ==============================================================================
+**by Stephen and Susan Brown**
 
 This repository hosts the ebook written around 2000-2010.
 
