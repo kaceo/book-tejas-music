@@ -8,7 +8,8 @@ Building a Tango Music Collection for Social Dancing
 
 A comprehensive guide for getting started on building a collection of Argentine tango music for social dancing.
 
-.. contents::
+.. sidebar::
+  .. contents::
 
 .. image:: ../../pix/cdsv.jpg
 
