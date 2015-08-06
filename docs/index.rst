@@ -10,21 +10,25 @@ Ready to get started? Check out the :doc:`Quickstart<quickstart>` guide.
 For Dancers
 --------
 
-* Building a Collection of Tango Music for Social Dancing
 A comprehensive guide for getting started on building a collection of Argentine tango music for social dancing.
-
-* Music for Dancers New to Argentine Tango
-A guide to the recordings best-suited for dancers first learning to hear the rhythm of Argentine tango music.
-
-* Classics of Tango Dance Music
-An evolving list of great tangos, milongas and valses for social dancing as recommended by tango dancers and DJs from around the world.
-
 
 .. toctree::
    :maxdepth: 2
 
    dancers/build-a-collection
+
+A guide to the recordings best-suited for dancers first learning to hear the rhythm of Argentine tango music.
+
+.. toctree::
+   :maxdepth: 2
+
    dancers/new-to-tango
+
+An evolving list of great tangos, milongas and valses for social dancing as recommended by tango dancers and DJs from around the world.
+
+.. toctree::
+   :maxdepth: 2
+
    dancers/tango-classics
 
 For DJs
