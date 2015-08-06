@@ -8,11 +8,9 @@ Building a Tango Music Collection for Social Dancing
 
 A comprehensive guide for getting started on building a collection of Argentine tango music for social dancing.
 
-.. sidebar::
-
-  .. contents::
-
 .. image:: ../../pix/cdsv.jpg
+
+.. contents::
 
 
 Introduction / Overview
@@ -144,13 +142,33 @@ Compilation  --  Pa' Que Bailen Los Muchachos  (Blue Moon BMT 001/002)
 
 Building a More Extensive Collection
 ====================================
-For purposes of developing a more extensive collection of tango music, we find useful to think of the music in a number of categories.  Because the recordings of the golden age that are suitable for social dancing are so extensive, we categorize them as early golden age, harder rhythmic, softer rhythmic, smooth, lyrical and dramatic.  Including the tangos of the old guard, transition era, new tango, modern tango orchestras, and tango fusion, as well as milongas and valses we obtain 13 categories with which to classify recordings.  Each category has a different sound, and numerous CDs are available in each category.
- 
-Style of Music 	
-About the Style of Music 	
-Orchestras
-Old Guard 	The tangos of the old guard generally had less complex arrangements and simpler rhythms in comparison to tangos played during golden age and later eras. 	Orquesta Tipica Victor, Carabelli, Firpo, Lomuto, Fresedo, etc.
-Early Golden Age 	 The tangos of the early golden age represent a transition from the old guard to the golden age of tango.  They have clear, simple rhythms but show signs of the stronger orchestration and lyricism that characterize golden age tangos. 	De Caro, Donato, early Canaro
+For purposes of developing a more extensive collection of tango music, 
+we find useful to think of the music in a number of categories.  
+Because the recordings of the golden age that are suitable for social dancing 
+are so extensive, we categorize them as 
+early golden age, harder rhythmic, softer rhythmic, smooth, lyrical and dramatic.  
+Including the tangos of the old guard, transition era, 
+new tango, modern tango orchestras, and tango fusion, 
+as well as milongas and valses we obtain 13 categories 
+with which to classify recordings.  
+Each category has a different sound, and numerous CDs are available 
+in each category.
+
+.. list-table:: Music by Category
+   :widths: 10 30 30
+   :header-rows: 1
+   
+   * - Style of Music 	
+     - About the Style of Music 	
+     - Orchestras
+   * - Old Guard 	
+     - The tangos of the old guard generally had less complex arrangements and simpler rhythms in comparison to tangos played during golden age and later eras. 	
+     - Orquesta Tipica Victor, Carabelli, Firpo, Lomuto, Fresedo, etc.
+   * - Early Golden Age
+     - The tangos of the early golden age represent a transition from the old guard to the golden age of tango.  They have clear, simple rhythms but show signs of the stronger orchestration and lyricism that characterize golden age tangos. 	
+     - De Caro, Donato, early Canaro
+
+
 Golden Age Harder Rhythmic 	Strong ric-tic rhythms characterize the harder rhythmic tangos.  For the tangos in this style that have vocals, the singer stays relatively close to the orchestra's rhythm. 	D' Arienzo, Biagi, Rodriguez 
 Golden Age Softer Rhythmic 	Less pronounced ric-tic rhythms characterize the softer rhythmic tangos.  For the tangos in this style that have vocals, the singer stays relatively close to the orchestra's rhythm. 	early Troilo, some Troilo/Fiorentino, Tanturi/Castillo, Caló instrumentals, Caló/Podesta, Federico, Laurenz, D' Agostino/Vargas, early Di Sarli
 Golden Age Smooth 	A strong, slow walking beat and the near elimination of the ric-tic rhythms characterize the smooth tangos. 	most Di Sarli instrumentals, some Canaro instrumentals, some Fresedo instrumentals, some Troilo instrumentals
