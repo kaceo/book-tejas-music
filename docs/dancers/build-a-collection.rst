@@ -30,11 +30,38 @@ We also ask the DJs at milongas and practicas what they are playing when we hear
 something we particularly like. 
 Our final guide has been our own ears, sense of rhythm, and the improving availability of recordings.
 
-A purchaser can improve the odds of finding good dance music by watching for the four big names in tango social dance music: Juan D' Arienzo, Carlos Di Sarli, Osvaldo Pugliese, and Anibal Troilo.  Their orchestras were among the most popular during the golden age of tango, and their music is still prominently featured at milongas in Buenos Aires.  A number of other orchestras from the golden age of tango�particularly those led by of Rodolfo Biagi, Miguel Caló, Francisco Canaro, Angel D' Agostino, Alfredo De Angelis, Pedro Laurenz, and Ricardo Tanturi�also produced music that is excellent for social dancing, and their music is still played at milongas in Buenos Aires.  The EMI Reliquias and Tango Argentino labels contain many of the best tangos recorded by the great orchestras of the golden age.
+A purchaser can improve the odds of finding good dance music by watching 
+for the four big names in tango social dance music: 
+Juan D' Arienzo, Carlos Di Sarli, Osvaldo Pugliese, and Anibal Troilo.  
+Their orchestras were among the most popular during the golden age of tango,
+and their music is still prominently featured at milongas in Buenos Aires.  
+A number of other orchestras from the golden age of tango -- 
+particularly those led by of Rodolfo Biagi, Miguel Caló, 
+Francisco Canaro, Angel D'Agostino, Alfredo De Angelis, 
+Pedro Laurenz, and Ricardo Tanturi -- 
+also produced music that is excellent for social dancing, 
+and their music is still played at milongas in Buenos Aires.  
+The EMI Reliquias and Tango Argentino labels contain many of 
+the best tangos recorded by the great orchestras of the golden age.
 
-Some of the orchestras from the old guard that held sway prior to the golden age, such as Orquesta Tipica Victor and those led by Julio De Caro, Roberto Firpo, Osvaldo Fresedo, and Francisco Lomuto also produced excellent social dance music, but the available recordings are generally of lower fidelity.  Orchestras playing new tango, such as those led by Astor Piazzolla, Pablo Ziegler, and Juan-Jose Mosalini, typically recorded concert music that most tango dancers consider unsuitable for social dancing.  Orchestras recording during the transition from the golden age to new tango, such as those led José Basso, Carlos Garcia, Francini-Pontier, Alfredo Gobbi, and Horacio Salgan, played arrangements that ranged from concert music to social dance music.
+Some of the orchestras from the old guard that held sway prior 
+to the golden age, such as Orquesta Tipica Victor and 
+those led by Julio De Caro, Roberto Firpo, Osvaldo Fresedo, 
+and Francisco Lomuto also produced excellent 
+social dance music, but the available recordings are generally 
+of lower fidelity.  
+Orchestras playing new tango, such as those led by 
+Astor Piazzolla, Pablo Ziegler, and Juan-Jose Mosalini, 
+typically recorded concert music that most tango dancers 
+consider unsuitable for social dancing.  
+Orchestras recording during the transition from the golden 
+age to new tango, such as those led José Basso, Carlos Garcia, 
+Francini-Pontier, Alfredo Gobbi, and Horacio Salgan, 
+played arrangements that ranged from concert music 
+to social dance music.
 
-There are a number of easy to find recordings that are probably best avoided when starting a 
+There are a number of easy to find recordings that are probably 
+best avoided when starting a 
 collection of tango recordings for social dancing. 
 Most prominent in this category are the recordings of Carlos Gardel and Astor Piazzolla.  
 Although recordings by these artists are widely available and highly regarded for 
@@ -46,22 +73,27 @@ tempos that are too fast for social dancing.
 Where to Buy
 ============
 
-Despite a growing number of releases over the past few years, distribution remains limited, 
+Despite a growing number of releases over the past few years, distribution 
+remains limited, 
 and availability is a constant issue in obtaining recordings of Argentine tango 
 music suitable for dancing.  
 For purchases in the United States, keep your eyes open and visit lots of compact disc 
 stores and be prepared to mail order.  
 Barnes and Noble bookstores occasionally have a few CDs of good tango music for social dancing
-�particularly on the Blue Moon and El Bandoneon and 
-Harlequin labels�along with extensive stocks of tango music completely 
+-- particularly on the Blue Moon and El Bandoneon and 
+Harlequin labels -- along with extensive stocks of tango music completely 
 unsuitable for social dancing.  
 Some large local stores near universities also stock a fair number of tango recordings, 
 some of which may be suitable for social dancing.
 
-Of the dealers in the United States, TangoCD.com has the most extensive list of recordings.  
-Zival's Tango Store in Buenos Aires has the most extensive list of recordings and ships promptly.  
-Owing to the distance, Zival's shipping costs are high and are best spread across a big order.  
-In the United Kingdom, Mike Lavocah's milonga.co.uk, has an extensive list of available recordings.  
+Of the dealers in the United States, TangoCD.com has the most extensive list 
+of recordings.  
+Zival's Tango Store in Buenos Aires has the most extensive list of recordings 
+and ships promptly.  
+Owing to the distance, Zival's shipping costs are high and are best spread 
+across a big order.  
+In the United Kingdom, Mike Lavocah's milonga.co.uk, has an extensive list of 
+available recordings.  
 In Germany, Danza y Movimiento has an extensive list of recordings.
 
 Getting Started in Building a Collection
@@ -75,7 +107,7 @@ that represents the diversity of these great orchestras with CDs that have well-
 music that is suitable for dancing.  
 When starting a collection of of tango music for social dancing, our recommendation is to 
 begin with the four great orchestras of the golden age
-�D' Arienzo, Di Sarli, Troilo and Pugliese. 
+-- D' Arienzo, Di Sarli, Troilo and Pugliese. 
 We also recommend expanding this collection with recording by some of the other major 
 orchestras of the golden age, particularly Caló, Tanturi, DeAngelis, Laurenz and Biagi.
 
@@ -135,7 +167,13 @@ To add depth to the basic collection, we recommend adding a few CDs by some of t
 
 A Basic Collection on a Budget
 ------------------------------
-The two-CD compilation, Pa' Que Bailen Los Muchachos on the Blue Moon label is an attractive alternative for someone who wants to start on a smaller budget. This compilation contains social dance music played by some of the major tango orchestras of the golden age. Many tracks are the classics of tango. Most tracks are from the golden age, but some are from the old guard, and some are from the transition to new tango.
+The two-CD compilation, Pa' Que Bailen Los Muchachos on the Blue Moon label 
+is an attractive alternative for someone who wants to start on a smaller budget. 
+This compilation contains social dance music played by some of the major 
+tango orchestras of the golden age. 
+Many tracks are the classics of tango. 
+Most tracks are from the golden age, but some are from the old guard, 
+and some are from the transition to new tango.
 
 Compilation  --  Pa' Que Bailen Los Muchachos  (Blue Moon BMT 001/002)
 
@@ -162,15 +200,10 @@ in each category.
      - About the Style of Music 	
      - Orchestras
    * - Old Guard 	
-     - The tangos of the old guard generally had less complex 
-     arrangements and simpler rhythms in comparison to tangos played during 
-     golden age and later eras. 	
+     - The tangos of the old guard generally had less complex arrangements and simpler rhythms in comparison to tangos played during golden age and later eras. 	
      - Orquesta Tipica Victor, Carabelli, Firpo, Lomuto, Fresedo, etc.
    * - Early Golden Age
-     - The tangos of the early golden age represent a transition from the old 
-     guard to the golden age of tango.  
-     They have clear, simple rhythms but show signs of the stronger 
-     orchestration and lyricism that characterize golden age tangos. 	
+     - The tangos of the early golden age represent a transition from the old guard to the golden age of tango.  They have clear, simple rhythms but show signs of the stronger orchestration and lyricism that characterize golden age tangos. 	
      - De Caro, Donato, early Canaro
 
 
@@ -306,7 +339,13 @@ Compilations  (For a discussion of the recordings see Compilations below.)
 
 A Note on Fidelity
 ==================
-Fidelity is a major issue facing someone building a collection of tango music for social dance.  The recording technology during the golden era was somewhat limited, and the quality of the restoration varies considerably across labels.  For most of the material, we generally rate the sound quality on the major labels reissuing tango music from the golden age as follows (starting with the best):
+Fidelity is a major issue facing someone building a collection of tango 
+music for social dance.  
+The recording technology during the golden era was somewhat limited, 
+and the quality of the restoration varies considerably across labels.  
+For most of the material, we generally rate the sound quality on the 
+major labels reissuing tango music from the golden age as follows 
+(starting with the best):
 
 1.  RCA Victor 100 Años and other special RCA releases (limited titles)
 2.  Solo Tango/FM Tango (limited titles)
@@ -318,11 +357,31 @@ Fidelity is a major issue facing someone building a collection of tango music fo
 
 A Note on Changing Availability
 ===============================
-Over the past ten years, the availability of recordings of Argentine tango music for social dancing has generally improved as the number of tango dancers has increased.  Some CDs and labels have gone out of production, only to be replaced by others.  EMI sharply reduced its tango catalog.  The EMI Pampa, Music Hall and FM Tango labels discontinued production.  The Solo Tango label has released many of the CDs once available on the FM Tango label.  A few years ago The EMI Reliquias and Tango Argentino labels picked up much of the slack by issuing material licensed from EMI and RCA, respectively.  More recently, RCA has been  releasing much of the material from its vaults in special collections with impressive sound quality.  The Lantower, Blue Moon and El Bandoneon labels also contributed with growing catalogs of vintage recordings from the golden age and earlier.
+Over the past ten years, the availability of recordings of Argentine tango 
+music for social dancing has generally improved as the number of 
+tango dancers has increased.  
+Some CDs and labels have gone out of production, only to be replaced by others.  
+EMI sharply reduced its tango catalog.  
+The EMI Pampa, Music Hall and FM Tango labels discontinued production.  
+The Solo Tango label has released many of the CDs once available on the 
+FM Tango label.  
+A few years ago The EMI Reliquias and Tango Argentino labels picked up much 
+of the slack by issuing material licensed from EMI and RCA, respectively.  
+More recently, RCA has been  releasing much of the material from its 
+vaults in special collections with impressive sound quality.  
+The Lantower, Blue Moon and El Bandoneon labels also contributed with 
+growing catalogs of vintage recordings from the golden age and earlier.
 
 Some of the Better Recordings
 =============================
-Below are our descriptions and assessments of some of the better recordings for social dancing.  We concentrate on the classics of tango dance music and other recordings that have caught our attention, making no attempt to create a comprehensive listing of tango recordings.  Information is organized by style/epoch: Old Guard, Golden Age, Transition to New Tango, New Tango, Neo-Tango and Compilations.
+Below are our descriptions and assessments of some of the better recordings 
+for social dancing.  
+We concentrate on the classics of tango dance music and other recordings that 
+have caught our attention, making no attempt to create a comprehensive 
+listing of tango recordings.  
+Information is organized by style/epoch: 
+Old Guard, Golden Age, Transition to New Tango, New Tango, Neo-Tango 
+and Compilations.
 
  * indicates CDs listed in the basic and/or extended collection
  ½ indicates a half or less of the songs on each disc are suitable for dancing.
@@ -332,9 +391,16 @@ The Old Guard
 -------------
 -- Orquesta Tipica Victor, Carabelli, Lomuto, Firpo, and Fresedo
 
-After it achieved acceptability in Europe, tango dancing became a popular social event among middle- and upper-class porteños (citizens of Buenos Aires) during the 1920s and 1930s. Most of the music from the era is relatively simple rhythmically, which makes it somewhat easier to hear and learn the rhythm of the music.
+After it achieved acceptability in Europe, tango dancing became a popular 
+social event among middle- and upper-class porteños 
+(citizens of Buenos Aires) during the 1920s and 1930s. 
+Most of the music from the era is relatively simple rhythmically, 
+which makes it somewhat easier to hear and learn the rhythm of the music.
 
-Orquesta Tipica Victor was a studio orchestra led by Adolfo Carabelli and made up of some of the finest tango musicians of the day. It was one of the first old guard orchestras to adopt the 4x4 style of the golden age of tango.
+Orquesta Tipica Victor was a studio orchestra led by Adolfo Carabelli and 
+made up of some of the finest tango musicians of the day. 
+It was one of the first old guard orchestras to adopt the 4x4 style of 
+the golden age of tango.
 
 *Orquesta Tipica Victor -- 1926-1940 (El Bandoneon EBCD 85)
 This CD contains a classic set of instrumental tracks with strong rhythms for dancing.  On some versions of the CD, the tracks are completely mislabled.  The correct listing is Negro, Retintin, Pato, Hilos de Plata, La Payanca, Puente Alsina, Chuzasos, Re Fa Si, De Mi Barrio, Fumando Espero, Julienne, Adios Muchachos, Carta Brava, Che Papusi Oi, Ensueño, Domino, Viento Norte, Cardos, Como Tigre Cebao, and Tango Milonguero.
@@ -342,12 +408,14 @@ This CD contains a classic set of instrumental tracks with strong rhythms for da
 *Orquesta Tipica Victor -- RCA Victor 100 Años
 This surprisingly well-recorded CD contains a classic set of intrumental tracks with strong rhythms for dancing.
 
-Adolfo Carabelli was the leader and pianist of Orquesta Tipica Victor.  He later led a studio orchestra indentified by his own name.
+Adolfo Carabelli was the leader and pianist of Orquesta Tipica Victor.  
+He later led a studio orchestra indentified by his own name.
 
 Adolfo Carabelli -- Cuatro Palabras (El Bandoneon EBCD 87)
 This CD contains fantastic vocal music with great rhythm for dancing.
 
-Francisco Lomuto led one of the better tango orchestras of the 1930s.  Many well-known tango musicians apprenticed in his orchestra.
+Francisco Lomuto led one of the better tango orchestras of the 1930s.  
+Many well-known tango musicians apprenticed in his orchestra.
 
 Francisco "Pancho" Lomuto -- y Su Orquesta Tipica (El Bandoneon EBCD 09)
 
@@ -362,7 +430,15 @@ More classics with Old Guard Rhythm
 Roberto Firpo  --  De la Guardia Vieja (EMI Reliquias)
 This CD contains a classic set of tracks in 2x4 rhythm along with several valses.
 
-Osvaldo Fresedo was an innovator who led one of the great tango orchestras during from the 1920s into the 1950s. His playing bridged eras from the old guard through the golden age and into the concert era.  His old guard sound presaged the early golden age, and many musicians apprenticed in his orchestra.  Unfortunately, the album most representative of Fresedo's old guard instrumental sound, Tigre Viejo, is not currently available on CD.
+Osvaldo Fresedo was an innovator who led one of the great tango 
+orchestras during from the 1920s into the 1950s. 
+His playing bridged eras from the old guard through the golden age 
+and into the concert era.  
+His old guard sound presaged the early golden age, and many 
+musicians apprenticed in his orchestra.  
+Unfortunately, the album most representative of Fresedo's 
+old guard instrumental sound, Tigre Viejo, is not currently 
+available on CD.
 
 *Osvaldo Fresedo  --  Serie de Oro (Sonido)
 Many instrumental classics with Fresedo's old guard sound.
