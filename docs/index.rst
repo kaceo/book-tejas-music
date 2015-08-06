@@ -14,6 +14,7 @@
    deejays/post-golden-age
    deejays/neotangos
 
+========================================
 Guides to Tango Music for Social Dancing 
 ========================================
 *by Stephen and Susan Brown*
@@ -25,8 +26,7 @@ We provide guides for developing a collection of tango music and using it for so
 
 .. image:: ../pix/la_cumparsita.jpg
 
-For Social Dancers
------------------
+.. rubric:: For Social Dancers
 
 A comprehensive guide for getting started on building a collection of Argentine tango music for social dancing.
 
@@ -34,8 +34,7 @@ A guide to the recordings best-suited for dancers first learning to hear the rhy
 
 An evolving list of great tangos, milongas and valses for social dancing as recommended by tango dancers and DJs from around the world.
 
-For Music DJs
-------------
+.. rubric:: For Music DJs
 
 A guide for the person playing recorded music at milongas, practicas and other tango events.
 
