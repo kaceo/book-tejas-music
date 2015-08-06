@@ -5,6 +5,8 @@ Building a Tango Music Collection for Social Dancing
 
 A comprehensive guide for getting started on building a collection of Argentine tango music for social dancing.
 
+.. contents:
+
 
 Introduction/Overview
 Where to Buy
@@ -106,10 +108,10 @@ The recordings of the old guard, which recorded prior to the golden era,
 are important historically, but the poor fidelity limits their usefulness for social dancing. 
 Recordings of new tango or from the transition to new tango are of better fidelity than most recordings from the golden age, but most of the arrangements are less suitable for social dancing.
 
-bandoneon - back to top
-A Basic Collection
-3
-333333For a basic collection, we recommend one or two CDs from each of the four great orchestras. Taken together, the music of these four orchestras represent a good sampling of the variety of sounds that characterized the golden age.  For Juan D' Arienzo, the best CD to begin with is El Esquinazo 1937-1938 in the RCA series 70 Años.  Another excellent choice is Instrumental Vol 1 on the Solo Tango label.  Other possibilities are Sus Primeros Exitos vol. 1, or Sus Primeros Exitos vol. 2.  For Carlos Di Sarli, the best currently available CDs to begin with is Instrumental Vol. 1. on the Solo Tango label.  Alternatives are RCA Victor 100 Años or  Instrumental on the Tango Argentino label.  For Anibal Troilo, the best CDs for a basic collection are probably Instrumental, and Troilo/Fiorentino.  Some of the material found on these two CDs is available on Yo Soy El Tango (RCA) at slightly better fidelity, but the set of tracks is not compelling.  Some of the best material from the two CDs are available on El Inmortal Pichuco but at much lower fidelity.  For Osvaldo Pugliese, the best CD to begin a collection is Ausencia. If this Pugliese recording proves too difficult to find, Instrumentales Inolvidables would be a reasonable substitute.
+A Basic Collection (An annotated list)
+**************************************
+
+For a basic collection, we recommend one or two CDs from each of the four great orchestras. Taken together, the music of these four orchestras represent a good sampling of the variety of sounds that characterized the golden age.  For Juan D' Arienzo, the best CD to begin with is El Esquinazo 1937-1938 in the RCA series 70 Años.  Another excellent choice is Instrumental Vol 1 on the Solo Tango label.  Other possibilities are Sus Primeros Exitos vol. 1, or Sus Primeros Exitos vol. 2.  For Carlos Di Sarli, the best currently available CDs to begin with is Instrumental Vol. 1. on the Solo Tango label.  Alternatives are RCA Victor 100 Años or  Instrumental on the Tango Argentino label.  For Anibal Troilo, the best CDs for a basic collection are probably Instrumental, and Troilo/Fiorentino.  Some of the material found on these two CDs is available on Yo Soy El Tango (RCA) at slightly better fidelity, but the set of tracks is not compelling.  Some of the best material from the two CDs are available on El Inmortal Pichuco but at much lower fidelity.  For Osvaldo Pugliese, the best CD to begin a collection is Ausencia. If this Pugliese recording proves too difficult to find, Instrumentales Inolvidables would be a reasonable substitute.
 
   1. Juan D' Arienzo
         El Esquinazo 1937-1938 (RCA 70 Años - the best set of tracks in the best-sounding collection of D' Arienzo's classics
@@ -129,8 +131,9 @@ A Basic Collection
         Ausencia  (EMI Odeon # 8 35886 2) - an outstanding collection with many of his best recordings
         Instrumentales Inolvidables  (EMI Reliquias) - many classic Pugliese instrumentals that are not found on Ausencia
 
-bandoneon - back to top
+
 Expanding the Basic Collection
+******************************
 To add depth to the basic collection, we recommend adding a few CDs by some of the other highly regarded orchestras of the golden age, particularly those led by Caló, DeAngelis, Laurenz, Biagi and Tanturi.  For Miguel Caló, the best CDs for a small collection are Al Compás del Corazon and Yo Soy El Tango. For Alfredo De Angelis, the best CD for a small collection is From Argentina to the World or Adiós Marinero. The former contains most De Angelis instrumental classics and his two best valses. The latter contains four great valses in addition to some excellent vocal tangos. For Pedro Laurenz, the CD Milonga a Mis Amores contains excellent valses and milongas in addition to some decent tangos. For Rodolfo Biagi, the best CD to expand a basic collection is Sus Exitos con Falgas y Ibanez (EMI Reliquias) or the somewhat lower fidelity Campo Afuera (El Bandoneon). For Ricardo Tanturi's Orchestra, the best choice would be with vocalist Alberto Castillo on the Solo Tango label, Tanturi/Castillo.  The other Tanturi/Castillo CDs have similar tracks; the El Bandoneon CD has noticeably lower fidelity.  Another great addition to any collection is the Carlos Di Sarli orchestra with vocalists Roberto Rufino, Sus Primeros Exitos vol. 1 or Jorge Duran, Porteño y Bailarin.
 
   5. Miguel Caló
@@ -153,17 +156,21 @@ To add depth to the basic collection, we recommend adding a few CDs by some of t
         Sus Primeros Exitos, vol. 1  (Tango Argentino) - with vocalist Roberto Rufino
         Porteño y Bailarin  (Tango Argentino) - with vocalist Jorge Duran
 
-bandoneon - back to top
+
 A Basic Collection on a Budget
+******************************
 The two-CD compilation, Pa' Que Bailen Los Muchachos on the Blue Moon label is an attractive alternative for someone who wants to start on a smaller budget. This compilation contains social dance music played by some of the major tango orchestras of the golden age. Many tracks are the classics of tango. Most tracks are from the golden age, but some are from the old guard, and some are from the transition to new tango.
 
 Compilation � Pa' Que Bailen Los Muchachos  (Blue Moon BMT 001/002)
 
-bandoneon - back to top
+
 Building a More Extensive Collection
+************************************
 For purposes of developing a more extensive collection of tango music, we find useful to think of the music in a number of categories.  Because the recordings of the golden age that are suitable for social dancing are so extensive, we categorize them as early golden age, harder rhythmic, softer rhythmic, smooth, lyrical and dramatic.  Including the tangos of the old guard, transition era, new tango, modern tango orchestras, and tango fusion, as well as milongas and valses we obtain 13 categories with which to classify recordings.  Each category has a different sound, and numerous CDs are available in each category.
  
-Style of Music 	About the Style of Music 	Orchestras
+Style of Music 	
+About the Style of Music 	
+Orchestras
 Old Guard 	The tangos of the old guard generally had less complex arrangements and simpler rhythms in comparison to tangos played during golden age and later eras. 	Orquesta Tipica Victor, Carabelli, Firpo, Lomuto, Fresedo, etc.
 Early Golden Age 	 The tangos of the early golden age represent a transition from the old guard to the golden age of tango.  They have clear, simple rhythms but show signs of the stronger orchestration and lyricism that characterize golden age tangos. 	De Caro, Donato, early Canaro
 Golden Age Harder Rhythmic 	Strong ric-tic rhythms characterize the harder rhythmic tangos.  For the tangos in this style that have vocals, the singer stays relatively close to the orchestra's rhythm. 	D' Arienzo, Biagi, Rodriguez 
@@ -178,8 +185,8 @@ Tango Fusion 	Tango fusion integerates traditional tango rhythms and instrumenta
 Milongas 	Milonga is a faster-paced dance music with a relentless driving rhythm from which tango music developed. 	Canaro, D' Arienzo, Troilo, Tanturi, Caló, Di Sarli, Pugliese, Biagi, Laurenz
 Valses 	Vals music is based on the classic 1-2-3 waltz rhythm but is played at a much faster tempo than characterizes ballroom or Viennese waltz music. 	Canaro, D' Arienzo, Biagi, Troilo, Tanturi, Caló, Di Sarli, DeAngeles, Laurenz
 
-bandoneon - back to top
 Principal Elements of a More Extensive Collection
+-------------------------------------------------
 Our strategty for building an extensive collection of tango music for social dancing is to rely principally on those CDs that contain many classics and well represent the variety of tangos, milongas and valses from the golden age.  Selective additions of old guard and post golden-era recordings, as well as CDs with a limited number of useful tracks round out a more extensive collection.
 
 Old Guard  (For a discussion of the recordings see Old Guard below.)
@@ -296,8 +303,8 @@ Compilations  (For a discussion of the recordings see Compilations below.)
     Los 100 Mejores Tangos, Milongas y Valses del Milenio, Vol. 4  (El Bandoneon 304) - valses
     Valses Inolvidables  (EMI Reliquias) - valses
 
-bandoneon - back to top
 A Note on Fidelity
+------------------
 Fidelity is a major issue facing someone building a collection of tango music for social dance.  The recording technology during the golden era was somewhat limited, and the quality of the restoration varies considerably across labels.  For most of the material, we generally rate the sound quality on the major labels reissuing tango music from the golden age as follows (starting with the best):
 
 1.  RCA Victor 100 Años and other special RCA releases (limited titles)
@@ -308,38 +315,38 @@ Fidelity is a major issue facing someone building a collection of tango music fo
 6.  Blue Moon, El Bandoneon
 7.  Magenta, Harlequin, Club Tango Argentino
 
-bandoneon - back to top
 A Note on Changing Availability
+-------------------------------
 Over the past ten years, the availability of recordings of Argentine tango music for social dancing has generally improved as the number of tango dancers has increased.  Some CDs and labels have gone out of production, only to be replaced by others.  EMI sharply reduced its tango catalog.  The EMI Pampa, Music Hall and FM Tango labels discontinued production.  The Solo Tango label has released many of the CDs once available on the FM Tango label.  A few years ago The EMI Reliquias and Tango Argentino labels picked up much of the slack by issuing material licensed from EMI and RCA, respectively.  More recently, RCA has been  releasing much of the material from its vaults in special collections with impressive sound quality.  The Lantower, Blue Moon and El Bandoneon labels also contributed with growing catalogs of vintage recordings from the golden age and earlier.
 
-bandoneon - back to top
 Some of the Better Recordings
+-----------------------------
 Below are our descriptions and assessments of some of the better recordings for social dancing.  We concentrate on the classics of tango dance music and other recordings that have caught our attention, making no attempt to create a comprehensive listing of tango recordings.  Information is organized by style/epoch: Old Guard, Golden Age, Transition to New Tango, New Tango, Neo-Tango and Compilations.
 
  * indicates CDs listed in the basic and/or extended collection
  ½ indicates a half or less of the songs on each disc are suitable for dancing.
  ¼ indicates a fourth or less of the songs on each disc are suitable for dancing.
 
-bandoneon - back to top
-The Old Guard�Orquesta Tipica Victor, Carabelli, Lomuto, Firpo, and Fresedo
+The Old Guard -- Orquesta Tipica Victor, Carabelli, Lomuto, Firpo, and Fresedo
+***************************************************************************
 After it achieved acceptability in Europe, tango dancing became a popular social event among middle- and upper-class porteños (citizens of Buenos Aires) during the 1920s and 1930s. Most of the music from the era is relatively simple rhythmically, which makes it somewhat easier to hear and learn the rhythm of the music.
 
 Orquesta Tipica Victor was a studio orchestra led by Adolfo Carabelli and made up of some of the finest tango musicians of the day. It was one of the first old guard orchestras to adopt the 4x4 style of the golden age of tango.
 
-*Orquesta Tipica Victor � 1926-1940 (El Bandoneon EBCD 85)
+*Orquesta Tipica Victor -- 1926-1940 (El Bandoneon EBCD 85)
 This CD contains a classic set of instrumental tracks with strong rhythms for dancing.  On some versions of the CD, the tracks are completely mislabled.  The correct listing is Negro, Retintin, Pato, Hilos de Plata, La Payanca, Puente Alsina, Chuzasos, Re Fa Si, De Mi Barrio, Fumando Espero, Julienne, Adios Muchachos, Carta Brava, Che Papusi Oi, Ensueño, Domino, Viento Norte, Cardos, Como Tigre Cebao, and Tango Milonguero.
 
-*Orquesta Tipica Victor � RCA Victor 100 Años
+*Orquesta Tipica Victor -- RCA Victor 100 Años
 This surprisingly well-recorded CD contains a classic set of intrumental tracks with strong rhythms for dancing.
 
 Adolfo Carabelli was the leader and pianist of Orquesta Tipica Victor.  He later led a studio orchestra indentified by his own name.
 
-Adolfo Carabelli � Cuatro Palabras (El Bandoneon EBCD 87)
+Adolfo Carabelli -- Cuatro Palabras (El Bandoneon EBCD 87)
 This CD contains fantastic vocal music with great rhythm for dancing.
 
 Francisco Lomuto led one of the better tango orchestras of the 1930s.  Many well-known tango musicians apprenticed in his orchestra.
 
-Francisco "Pancho" Lomuto � y Su Orquesta Tipica (El Bandoneon EBCD 09)
+Francisco "Pancho" Lomuto -- y Su Orquesta Tipica (El Bandoneon EBCD 09)
 
 Roberto Firpo led orchestras during the 1930s and 40s, but he retained the classic 2x4 sound of the old guard.
 
@@ -368,8 +375,8 @@ Los Tubatango is a modern-era orchestra that plays in an old-guard style.  Their
 Los Tubatango � Una Noche de Garufa  (Music Hall  10044-2)
 The music on this CD has a steady beat that is a bit on the fast side.  For dancing, we like to play one or two on occasion, but most dancers do not want to hear Los Tubatango regularly.  (This novelty CD is discontinued, but still may be available through some vendors.)
 
-bandoneon - back to top
 Orchestras of the Early Golden Age�Canaro, De Caro, and Donato
+***********************************************************
 The orchestras of the early golden age helped create a a transition from the old guard to the golden age of tango.  Their music has clear, simple rhythms but show signs of the stronger orchestration and lyricism that characterize golden age tangos.
 
 Francisco Canaro had a career that spanned many decades, and his orchestra was one of the most recorded.  Much of his recorded music is in the classic salon style of the 1940s, but he is also considered a member of the old guard, and some of his later recordings contributed to the transition to concert tango.  For our tastes, his early golden age recordings are the best.  Some of his later recordings have a glossy pop sound that quickly grows tiresome.
@@ -397,8 +404,9 @@ A classic set of Donato tracks.
 
 Edgardo Donato � A Media Luz  (El Bandoneon)
 
-bandoneon - back to top
-Orchestras of the Golden Age�D' Arienzo, Di Sarli, Pugliese, Troilo, Biagi, Caló, Canaro, D' Agostino. De Angelis, Demare, Fresedo, Laurenz and Tanturi
+
+Orchestras of the Golden Age -- D'Arienzo, Di Sarli, Pugliese, Troilo, Biagi, Caló, Canaro, D' Agostino. De Angelis, Demare, Fresedo, Laurenz and Tanturi
+*********************************************************************************************************************************************************
 The great orchestras of the golden age of tango produced most of the music that is played for social dancing today.  During the golden age of tango, the most popular orchestras were led by Juan D' Arienzo, Carlos Di Sarli, Osvaldo Pugliese, and Anibal Troilo, and their music is still prominently featured at milongas in Buenos Aires.  A number of other great orchestras from the golden age of tango�like those led by of Rodolfo Biagi, Miguel Caló, Francisco Canaro, Angel D' Agostino, Alfredo De Angelis, Lucio Demare, Pedro Laurenz, Enrique Rodriquez, and Ricardo Tanturi�also produced music that is excellent for social dancing, and their music is still played at milongas in Buenos Aires.
 
 Juan D' Arienzo
@@ -859,8 +867,8 @@ Juan Carlos Caceres has a wonderful, deep singing voice and plays piano with jaz
 
 For a more extensive list of neo-tango CDs, see A DJ's Guide to Neo-Tango Music.
 
-bandoneon - back to top
 Compilations
+***********
 Compilations are ways to get music from a variety of orchestras on a single CD.  Unfortunately for the lazy DJ, there is no commercially available compilation that can be taken from the box and played straight through for social dancing at a milonga.  (Many privately produced compilations are available on a limited basis.  We do not list such compilations.)
 
 *Compilation � Pa' Que Bailen Los Muchachos  (Blue Moon BMT 001/002)
@@ -928,10 +936,11 @@ Recordings of Ballroom Tango
 Ballroom tango music is not generally accepted for dancing Argentine tango, but it is typically found in the same bins at the store as Argentine tango music.  For tipoffs that the CD is likely to be ballroom tango watch for cover art that suggests ballroom dancing and song titles listed in English, such as Blue Tango, Hernando's Hideaway or Jealousy.  None of the online sources listed above in Where to Buy carry ballroom tango music.
 
 Tango Recordings by Opera Singers
+*********************************
 Enough said!!
 
-bandoneon - back to top
 Some of Our Favorite Tango CDs
+******************************
   1.  Osvaldo Pugliese � Ausencia  (EMI Odeon # 8 35886 2)
   2.  Miguel Caló � Al Compás del Corazon  (EMI Reliquias)
   3.  Juan D' Arienzo � El Esquinazo 1937-1938 (RCA 70 Años)
@@ -947,8 +956,8 @@ Some of Our Favorite Tango CDs
 13.  Juan D' Arienzo � De Pura Cepa 1935-1936  (RCA 70 Años)
 14.  Pedro Laurenz � Milonga de Mis Amores  (El Bandoneon)
 
-bandoneon - back to top
 Tango Montreal Top 25
+*********************
 In early 1997, Tango Montreal conducted a survey of the top tango recordings, and about 75 individuals responded. Although RCA, Solo Tango, EMI Reliquias, Tango Argentino, Lantower, El Bandoneon and Blue Moon have released many good tango CDs since the survey was conducted, it may remain a useful source of information. Below are the dance titles rated in the top 25.
 
   1. Miguel Caló, Yo Soy el Tango - El Bandoneon EBCD 34
@@ -977,9 +986,3 @@ In early 1997, Tango Montreal conducted a survey of the top tango recordings, an
 24. Angel D' Agostino, Y su Orquesta Típica (1940-45) - El Bandoneon EBCD 44
 25. -- not social dance music
 
-bandoneon - back to top
-Tango Argentino de Tejas
-Home   Video Resources   Tango Music   Other Topics   Dallas Tango   Links
-
-
-33333
