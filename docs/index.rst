@@ -45,20 +45,13 @@ Documentation
 .. toctree::
    :maxdepth: 2
 
-   quickstart
-   install
-   content
-   publish
-   settings
-   themes
-   plugins
-   pelican-themes
-   importer
-   faq
-   tips
-   contribute
-   internals
-   report
+   dancers/build-a-collection
+   dancers/new-to-tango
+   dancers/tango-classics
+   deejays/play-for-milonga
+   deejays/list-of-tandas
+   deejays/post-golden-age
+   deejays/neotangos
    changelog
 
 .. Links
