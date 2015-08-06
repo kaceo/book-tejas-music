@@ -3,13 +3,12 @@ Building a Tango Music Collection for Social Dancing
 ####################################################
 *by Stephen and Susan Brown*
 
-A comprehensive guide for getting started on building a collection of Argentine tango music for social dancing.
-
 .. sidebar:: Contents
-
     .. contents::
 
-.. sectnum::
+A comprehensive guide for getting started on building a collection of Argentine tango music for social dancing.
+
+
 
 
 Introduction/Overview
