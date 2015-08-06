@@ -43,7 +43,7 @@ A brief guide to some post-golden-age CDs for the DJ playing music at milongas a
 
 A brief guide to some neo-tango CDs for the DJ playing music for tango dancers who would enjoy something new and different.
 
-
+.. rubric: Feedback
 
 Please send all questions, inquiries, or praise to <kaceong@gmail.com>.
 
