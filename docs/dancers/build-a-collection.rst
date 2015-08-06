@@ -162,10 +162,15 @@ in each category.
      - About the Style of Music 	
      - Orchestras
    * - Old Guard 	
-     - The tangos of the old guard generally had less complex arrangements and simpler rhythms in comparison to tangos played during golden age and later eras. 	
+     - The tangos of the old guard generally had less complex 
+     arrangements and simpler rhythms in comparison to tangos played during 
+     golden age and later eras. 	
      - Orquesta Tipica Victor, Carabelli, Firpo, Lomuto, Fresedo, etc.
    * - Early Golden Age
-     - The tangos of the early golden age represent a transition from the old guard to the golden age of tango.  They have clear, simple rhythms but show signs of the stronger orchestration and lyricism that characterize golden age tangos. 	
+     - The tangos of the early golden age represent a transition from the old 
+     guard to the golden age of tango.  
+     They have clear, simple rhythms but show signs of the stronger 
+     orchestration and lyricism that characterize golden age tangos. 	
      - De Caro, Donato, early Canaro
 
 
