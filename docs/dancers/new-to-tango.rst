@@ -3,13 +3,12 @@ Music for Dancers New to Argentine Tango
 ########################################
 *by Stephen and Susan Brown*
 
-.. sidebar:: Contents
-   .. contents::
-
 A guide to the recordings best-suited for dancers first learning to hear the rhythm of Argentine tango music.
 
-.. image:: ../pix/disarli.gif
+.. image:: ../../pix/disarli.gif
    :alt: Carlos Di Sarli
+
+.. contents::
 
 
 Overview
