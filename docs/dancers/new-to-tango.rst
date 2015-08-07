@@ -10,6 +10,7 @@ A guide to the recordings best-suited for dancers first learning to hear the rhy
    :align: right
 
 .. contents::
+   :depth: 2
 
 
 Overview
@@ -170,4 +171,3 @@ tango recordings, some of which may be suitable for social dancing.
   * In Germany, Danza y Movimiento has an extensive list of recordings.
 
 
-     0
