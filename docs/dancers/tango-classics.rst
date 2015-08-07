@@ -7,10 +7,9 @@ Classics of Tango Dance Music
 An evolving list of great tangos, milongas and valses for social dancing 
 as recommended by tango dancers and DJs from around the world.
 
+.. image:: ../../pix/Juan.jpg
+
 .. contents::
-
-.. image:: ../pix/Juan.jpg
-
 
 List as of 1 May 2011
 =====================
