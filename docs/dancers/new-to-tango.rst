@@ -7,6 +7,7 @@ A guide to the recordings best-suited for dancers first learning to hear the rhy
 
 .. image:: ../../pix/disarli.gif
    :alt: Carlos Di Sarli
+   :align: right
 
 .. contents::
 
@@ -133,7 +134,7 @@ The Recordings
   9. Osvaldo Pugliese
         Ausencia  (EMI Odeon # 8 35886 2)
         Instrumentales Inolvidables  (EMI Reliquias)
-10. Rodolfo Biagi
+  10. Rodolfo Biagi
         Sus Exitos con Falgas y Ibanez  (EMI Reliquias)
         Campo Afuera  (El Bandoneon 40)
 
@@ -169,3 +170,4 @@ tango recordings, some of which may be suitable for social dancing.
   * In Germany, Danza y Movimiento has an extensive list of recordings.
 
 
+     0
